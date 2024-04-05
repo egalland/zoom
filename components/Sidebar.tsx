@@ -35,7 +35,6 @@ const Sidebar = () => {
                 )
             })}
         </div>
-        Sidebar
     </section>
   )
 }
